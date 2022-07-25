@@ -1,4 +1,3 @@
 ### Bailey Long
-#### Big Nerd
-![d&d ampersand](/images/dndAMP.png)  
- #### also I code
+#### Motueka
+#### NMIT Student, formerly Motueka High
