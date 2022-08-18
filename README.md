@@ -1,7 +1,7 @@
 ## Bailey Long 
 ## Typical Nerd
 #### Motueka, NZ
-#### NMIT Student taking a Bachelor of IT, former Motueka High Student
+#### NMIT Student taking a Bachelor of IT
 ### Hobbies include
 - Dungeons and Dragons
 - Magic the Gathering
