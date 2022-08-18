@@ -3,7 +3,7 @@
 #### Motueka, NZ
 #### NMIT Student taking a Bachelor of IT
 ### Hobbies include
-- Dungeons and Dragons
+- Dungeons and Dragons (3.5 if anyone cares)
 - Magic the Gathering
 - Coding (C#, JS, HTML, CSS and a touch of Java)
 - Listening to Music (Literally anything although rock/metal is the usual)  
