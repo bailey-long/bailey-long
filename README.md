@@ -4,7 +4,7 @@
 #### NMIT Student taking a Bachelor of IT
 ### Hobbies include
 - Dungeons and Dragons (3.5 if anyone cares)
-- Magic the Gathering
+- Magic the Gathering (Also if anyone cares, Commander, with Karn, silver golem, Gisela, the Broken Blade and Purphoros)
 - Coding (C#, JS, HTML, CSS and a touch of Java)
 - Listening to Music (Literally anything although rock/metal is the usual)  
   
