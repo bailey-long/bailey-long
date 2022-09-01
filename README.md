@@ -1,4 +1,4 @@
-## Bailey Long 
+## Bailey Long <a href="https://bailey-long.github.io/src/index/index.html">My portfolio</a>
 ## Typical Nerd
 #### Motueka, NZ
 #### NMIT Student taking a Bachelor of IT
