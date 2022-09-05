@@ -3,10 +3,10 @@
 #### Motueka, NZ
 #### NMIT Student taking a Bachelor of IT
 ### Hobbies include
-- Dungeons and Dragons (3.5 if anyone cares)
-- Magic the Gathering (Also if anyone cares, Commander, with Karn, silver golem, Gisela, the Broken Blade and Purphoros)
+- Dungeons and Dragons
+- Magic the Gathering
 - Coding (C#, JS, HTML, CSS and a touch of Java)
-- Listening to Music (Literally anything although rock/metal is the usual)  
+- Listening to Music 
   
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bailey-long&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
