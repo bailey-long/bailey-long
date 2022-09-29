@@ -14,5 +14,4 @@
 ### Linkedin: [Bailey Long](https://www.linkedin.com/in/bailey-long-1b0543239/)
 ### GameJolt(Games made in High School): [Bailey Long](https://gamejolt.com/@loopypew)
 ### Steam Friend Code: 338214842  
-![](https://komarev.com/ghpvc/?username=bailey-long)
 
