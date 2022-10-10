@@ -1,4 +1,4 @@
-## <a target="_blank" href="https://bailey-long.github.io/src/index/index.html">Bailey Long</a>
+## <a target="_blank" href="https://bailey-long.github.io">Bailey Long</a>
 #### Motueka, NZ
 #### NMIT Student taking a Bachelor of IT
 ### Hobbies include
