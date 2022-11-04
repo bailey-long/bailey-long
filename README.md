@@ -6,9 +6,11 @@
 - Magic the Gathering
 - Coding (C#, JS, HTML, CSS and a touch of Java)
 - Listening to Music 
+<div>
 <img src="https://i.imgur.com/E1O7mVF.gif">
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bailey-long&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 ## Socials
 ### Discord: Loopypew#7947
 ### Linkedin: [Bailey Long](https://www.linkedin.com/in/bailey-long-1b0543239/)
