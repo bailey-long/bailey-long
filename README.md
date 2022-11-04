@@ -7,7 +7,7 @@
 - Coding (C#, JS, HTML, CSS and a touch of Java)
 - Listening to Music 
 
-<img src="https://i.imgur.com/E1O7mVF.gif">
+<img src="https://i.imgur.com/E1O7mVF.gif" align="right">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bailey-long&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ## Socials
