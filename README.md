@@ -6,9 +6,9 @@
 - Magic the Gathering
 - Coding (C#, JS, HTML, CSS and a touch of Java)
 - Listening to Music 
-<div>
-<img src="https://i.imgur.com/E1O7mVF.gif">
-    
+
+<img src="https://i.imgur.com/E1O7mVF.gif" align="left" width="100" height="100">
+<div align="right" width="100" height="100">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bailey-long&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 ## Socials
