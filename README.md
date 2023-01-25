@@ -10,4 +10,4 @@
 
 <img src="https://i.imgur.com/E1O7mVF.gif" align="right" margin-bottom="30px">
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bailey-long&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bailey-long)](https://github.com/anuraghazra/github-readme-stats)
