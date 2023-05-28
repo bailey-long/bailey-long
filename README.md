@@ -5,7 +5,7 @@
 ### Hobbies include
 - Board games
 - Old School Runescape
-- Coding (C#, JS, HTML, CSS and a touch of Java)
+- Coding (Duh)
 - Listening to Music 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bailey-long&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
