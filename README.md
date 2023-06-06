@@ -7,6 +7,8 @@
 - Old School Runescape
 - Coding (Duh)
 - Listening to Music 
+### 2023 goals
+- Learn typescript and front end frameworks (react, t3, vue)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bailey-long&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
